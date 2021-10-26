@@ -219,7 +219,7 @@ div[class*="__container"] {
 	height: 10px;
 	width: 22px;
 	right: 2.5%;
-	animation: bird-fly-six 35s forwards linear 0s;
+	animation: bird-fly-six 60s forwards linear 0s;
 }
 .bg__image {
 	max-width: 100%;
